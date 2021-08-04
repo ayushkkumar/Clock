@@ -1,11 +1,11 @@
-##A Neomorphic Clock
+## A Neomorphic Clock
 made using HTML5, CSS3, JS only, with the help of [Online Tutorials - Youtube](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 This website is responsive.
 
-####Preview 
+### Preview 
 <img src="final.png">
 
-####Future plans:
+### Future plans:
 <ul>
     <li>Light mode, Amoled mode</li>
     <li>Digital Clock</li>
